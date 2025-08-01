@@ -7,3 +7,5 @@ I'm also exploring new languages like **Solidity** and **Rust** (still deciding!
 
 This journey is about building, learning in public, and connecting with others who love code as much as I do. Let’s build something cool! 🚀
 
+## 📫 Reach Me
+[LinkedIn](https://www.linkedin.com/in/angeloliborio/)
